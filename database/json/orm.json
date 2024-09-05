@@ -1,0 +1,218 @@
+[
+    {
+        "ID": 1,
+        "name": "Deepak Kumar",
+        "email": "dk367748@gmail.com",
+        "age":20,
+        "phone": 9117417204,
+        "city": "Samastipur"
+    },
+    {
+        "ID": 2,
+        "name": "Mukesh Kumar",
+        "email": "mukesh56@gmail.com",
+        "age":19,
+        "phone": 8969485689,
+        "city": "Ahmedabad"
+    },
+    {
+        "ID": 3,
+        "name": "Kisahn Kumar",
+        "email": "kisan256@gmail.com",
+        "age":23,
+        "phone": 7896894789,
+        "city": "Varodra"
+    },
+    {
+        "ID": 4,
+        "name": "Sushil Kumar",
+        "email": "sushil74@gmail.com",
+        "age":17,
+        "phone": 6207803058,
+        "city": "Darbhanga"
+    },
+    {
+        "ID": 5,
+        "name": "Raju Kumar",
+        "email": "raja881@gmail.com",
+        "age":26,
+        "phone": 7321888617,
+        "city": "Samastipur-bihar"
+    },
+    {
+        "ID": 6,
+        "name": "Nitesh Kumar",
+        "email": "nitesh58@gmail.com",
+        "age":35,
+        "phone": 8102325330,
+        "city": "Samastipur"
+    },
+    {
+        "ID": 7,
+        "name": "Ranjit Kumar",
+        "email": "ranjit@gmail.com",
+        "age":15,
+        "phone": 9894758636,
+        "city": "Maksudpur"
+    },
+    {
+        "ID": 8,
+        "name": "Rausan Kumar",
+        "email": "raushan5@gmail.com",
+        "age":19,
+        "phone": 98958558636,
+        "city": "Bihar"
+    },
+    {
+        "ID": 9,
+        "name": "Abhishek Kumar",
+        "email": "abhishek@gmail.com",
+        "age":29,
+        "phone": 9896758636,
+        "city": "sajanpur"
+    },
+    {
+        "ID": 10,
+        "name": "anand Kumar",
+        "email": "anand56@gmail.com",
+        "age":69,
+        "phone": 98902358636,
+        "city": "supaul"
+    },
+    {
+        "ID": 11,
+        "name": "Taushif alam",
+        "email": "taushif55@gmail.com",
+        "age":75,
+        "phone": 7896528636,
+        "city": "Motihari"
+    },
+    {
+        "ID": 12,
+        "name": "yuraj kumar",
+        "email": "yuraj48@gmail.com",
+        "age":80,
+        "phone": 6308952636,
+        "city": "munger"
+    },
+    {
+        "ID": 13,
+        "name": "Ananya Sharma",
+        "email": "ananya.sharma@example.com",
+        "age":16,
+        "phone": 9876543210,
+        "city": "Delhi"
+    },
+    {
+        "ID": 14,
+        "name": "Ravi Patel",
+        "email": "ravi.patel@example.com",
+        "age":32,
+        "phone": 9123456789,
+        "city": "Mumbai"
+    },
+    {
+        "ID": 15,
+        "name": "Neha Singh",
+        "email": "neha.singh@example.com",
+        "age":27,
+        "phone": 9988776655,
+        "city": "Bengaluru"
+    },
+    {
+        "ID": 16,
+        "name": "Rajesh Kumar",
+        "email": "rajesh.kumar@example.com",
+        "age":30,
+        "phone": 9345678901,
+        "city": "Kolkata"
+    },
+    {
+        "ID": 17,
+        "name": "Sneha Gupta",
+        "email": "sneha.gupta@example.com",
+        "age":25,
+        "phone": 9456789012,
+        "city": "Chennai"
+    },
+    {
+        "ID": 18,
+        "name": "Amit Sharma",
+        "email": "amit.sharma@example.com",
+        "age":22,
+        "phone": 9876543211,
+        "city": "Hyderabad"
+    },
+    {
+        "ID": 19,
+        "name": "Priya Verma",
+        "email": "priya.verma@example.com",
+        "age":18,
+        "phone": 8765432109,
+        "city": "Pune"
+    },
+    {
+        "ID": 20,
+        "name": "Vikram Singh",
+        "email": "vikram.singh@example.com",
+        "age":33,
+        "phone": 8901234567,
+        "city": "Jaipur"
+    },
+    {
+        "ID": 21,
+        "name": "Sonia Mehta",
+        "email": "sonia.mehta@example.com",
+        "age":28,
+        "phone": 8765432108,
+        "city": "Ahmedabad"
+    },
+    {
+        "ID": 22,
+        "name": "Karan Johar",
+        "email": "karan.johar@example.com",
+        "age":45,
+        "phone": 9012345678,
+        "city": "Surat"
+    },
+    {
+        "ID": 23,
+        "name": "Aisha Khan",
+        "email": "aisha.khan@example.com",
+        "age":86,
+        "phone": 9123456780,
+        "city": "Bhopal"
+    },
+    {
+        "ID": 24,
+        "name": "Yuraj Kumar",
+        "email": "yuraj4568@gmail.com",
+        "age":55,
+        "phone": 6308952636,
+        "city": "Munger"
+    },
+    {
+        "ID": 25,
+        "name": "Deepak Joshi",
+        "email": "deepak.joshi@example.com",
+        "age":13,
+        "phone": 9234567890,
+        "city": "Indore"
+    },
+    {
+        "ID": 26,
+        "name": "Ritika Rani",
+        "email": "ritika.rani@example.com",
+        "age":17,
+        "phone": 9345678902,
+        "city": "Nagpur"
+    },
+    {
+        "ID": 27,
+        "name": "Manish Yadav",
+        "email": "manish.yadav@example.com",
+        "age":24,
+        "phone": 9456789013,
+        "city": "Vadodara"
+    }
+]

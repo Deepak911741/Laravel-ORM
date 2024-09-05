@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "date_of_birth": "2004-01-15",
+        "grade": "A"
+    },
+    {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "date_of_birth": "2003-04-22",
+        "grade": "B"
+    },
+    {
+        "id": 3,
+        "first_name": "Emily",
+        "last_name": "Johnson",
+        "email": "emily.johnson@example.com",
+        "date_of_birth": "2004-07-10",
+        "grade": "A"
+    },
+    {
+        "id": 4,
+        "first_name": "Michael",
+        "last_name": "Williams",
+        "email": "michael.williams@example.com",
+        "date_of_birth": "2003-11-30",
+        "grade": "C"
+    },
+    {
+        "id": 5,
+        "first_name": "Sarah",
+        "last_name": "Brown",
+        "email": "sarah.brown@example.com",
+        "date_of_birth": "2004-02-28",
+        "grade": "B"
+    },
+    {
+        "id": 6,
+        "first_name": "David",
+        "last_name": "Jones",
+        "email": "david.jones@example.com",
+        "date_of_birth": "2003-09-14",
+        "grade": "A"
+    },
+    {
+        "id": 7,
+        "first_name": "Laura",
+        "last_name": "Garcia",
+        "email": "laura.garcia@example.com",
+        "date_of_birth": "2004-05-21",
+        "grade": "B"
+    },
+    {
+        "id": 8,
+        "first_name": "Daniel",
+        "last_name": "Martinez",
+        "email": "daniel.martinez@example.com",
+        "date_of_birth": "2003-03-16",
+        "grade": "C"
+    },
+    {
+        "id": 9,
+        "first_name": "Olivia",
+        "last_name": "Rodriguez",
+        "email": "olivia.rodriguez@example.com",
+        "date_of_birth": "2004-08-25",
+        "grade": "A"
+    },
+    {
+        "id": 10,
+        "first_name": "James",
+        "last_name": "Wilson",
+        "email": "james.wilson@example.com",
+        "date_of_birth": "2003-12-02",
+        "grade": "B"
+    },
+    {
+        "id": 11,
+        "first_name": "Mia",
+        "last_name": "Lopez",
+        "email": "mia.lopez@example.com",
+        "date_of_birth": "2004-06-18",
+        "grade": "A"
+    },
+    {
+        "id": 12,
+        "first_name": "William",
+        "last_name": "Taylor",
+        "email": "william.taylor@example.com",
+        "date_of_birth": "2003-10-11",
+        "grade": "C"
+    },
+    {
+        "id": 13,
+        "first_name": "Sophia",
+        "last_name": "Anderson",
+        "email": "sophia.anderson@example.com",
+        "date_of_birth": "2004-03-22",
+        "grade": "B"
+    },
+    {
+        "id": 14,
+        "first_name": "Benjamin",
+        "last_name": "Thomas",
+        "email": "benjamin.thomas@example.com",
+        "date_of_birth": "2003-05-14",
+        "grade": "A"
+    },
+    {
+        "id": 15,
+        "first_name": "Isabella",
+        "last_name": "Jackson",
+        "email": "isabella.jackson@example.com",
+        "date_of_birth": "2004-09-05",
+        "grade": "B"
+    },
+    {
+        "id": 16,
+        "first_name": "Ethan",
+        "last_name": "White",
+        "email": "ethan.white@example.com",
+        "date_of_birth": "2003-12-18",
+        "grade": "C"
+    },
+    {
+        "id": 17,
+        "first_name": "Ava",
+        "last_name": "Harris",
+        "email": "ava.harris@example.com",
+        "date_of_birth": "2004-01-27",
+        "grade": "A"
+    },
+    {
+        "id": 18,
+        "first_name": "Lucas",
+        "last_name": "Martin",
+        "email": "lucas.martin@example.com",
+        "date_of_birth": "2003-07-20",
+        "grade": "B"
+    },
+    {
+        "id": 19,
+        "first_name": "Charlotte",
+        "last_name": "Thompson",
+        "email": "charlotte.thompson@example.com",
+        "date_of_birth": "2004-04-10",
+        "grade": "A"
+    },
+    {
+        "id": 20,
+        "first_name": "Mason",
+        "last_name": "Garcia",
+        "email": "mason.garcia@example.com",
+        "date_of_birth": "2003-11-25",
+        "grade": "C"
+    }
+]
